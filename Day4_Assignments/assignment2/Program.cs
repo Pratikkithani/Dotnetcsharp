@@ -9,8 +9,6 @@ namespace assignment2
         {
             Empolyee emp = new Manager("Pratik",25000,5000);
             emp.displayDetails();
-
-            ((Empolyee)emp).displayDetails();
         }
     }
 }
