@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\DotNetAssignments\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj": {}
+    "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\DotNetAssignments\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj": {
+    "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\DotNetAssignments\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj",
         "projectName": "Assignment_3",
-        "projectPath": "C:\\Users\\User\\Desktop\\DotNetAssignments\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day1_Assignments\\Assignment_3\\Assignment_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\DotNetAssignments\\Day1_Assignments\\Assignment_3\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day1_Assignments\\Assignment_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
