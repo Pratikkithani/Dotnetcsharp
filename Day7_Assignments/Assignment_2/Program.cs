@@ -25,7 +25,7 @@ namespace Assignment_2
                 if(prod.Key == "Electronics")
                 foreach (var item in prod)
                 {
-                    Console.WriteLine($"Name:: {item.Name}");
+                    Console.WriteLine($"Name :: {item.Name}");
                 }
 
             }
