@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\bin\Debug\net6.0\PoilicyHackathon.exe
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\bin\Debug\net6.0\PoilicyHackathon.deps.json
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\bin\Debug\net6.0\PoilicyHackathon.runtimeconfig.json
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\bin\Debug\net6.0\PoilicyHackathon.dll
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\bin\Debug\net6.0\PoilicyHackathon.pdb
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.sourcelink.json
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.dll
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\refint\PoilicyHackathon.dll
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.pdb
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\PoilicyHackathon.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Hackathon\PoilicyHackathon\obj\Debug\net6.0\ref\PoilicyHackathon.dll
