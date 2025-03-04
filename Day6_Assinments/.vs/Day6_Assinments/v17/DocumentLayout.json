@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E92A12-89CD-45EF-946D-5565FB721336}|Assignment_1\\Assignment_1.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day6_assinments\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E92A12-89CD-45EF-946D-5565FB721336}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08CE004-0A24-42C9-AB96-1CA70B36F753}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day6_assinments\\assignment_2\\model\\eventreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08CE004-0A24-42C9-AB96-1CA70B36F753}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\model\\eventreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08CE004-0A24-42C9-AB96-1CA70B36F753}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day6_assinments\\assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08CE004-0A24-42C9-AB96-1CA70B36F753}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AgIAADIAAAAAcGZmZmbGvzIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:04:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventReg.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_2\\Model\\EventReg.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Model\\EventReg.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_2\\Model\\EventReg.cs",
+              "RelativeToolTip": "Assignment_2\\Model\\EventReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:56:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day6_Assinments\\Assignment_2\\Program.cs",
+              "RelativeToolTip": "Assignment_2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:45:50.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

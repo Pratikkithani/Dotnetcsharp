@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Assgnment_1</id>
+    <version>1.0.0</version>
+    <authors>Assgnment_1</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="29baac8c44f36d38dd16162b9681a00428cb5134" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Day5_Assignments\Assgnment_1\bin\Debug\net6.0\Assgnment_1.runtimeconfig.json" target="lib\net6.0\Assgnment_1.runtimeconfig.json" />
+    <file src="C:\Users\User\Desktop\Dotnetcsharp\Dotnetcsharp\Day5_Assignments\Assgnment_1\bin\Debug\net6.0\Assgnment_1.dll" target="lib\net6.0\Assgnment_1.dll" />
+  </files>
+</package>

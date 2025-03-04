@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B73E20-0CAE-44C1-8A53-5F2F5E5117E1}|Assgnment_1\\Assgnment_1.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assgnment_1\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B73E20-0CAE-44C1-8A53-5F2F5E5117E1}|Assgnment_1\\Assgnment_1.csproj|solutionrelative:assgnment_1\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B73E20-0CAE-44C1-8A53-5F2F5E5117E1}|Assgnment_1\\Assgnment_1.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assgnment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B73E20-0CAE-44C1-8A53-5F2F5E5117E1}|Assgnment_1\\Assgnment_1.csproj|solutionrelative:assgnment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assignment_2\\model\\twowheelerinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\model\\twowheelerinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assignment_2\\model\\vehicleinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\model\\vehicleinsurancepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|c:\\users\\user\\desktop\\dotnetcsharp\\dotnetcsharp\\day5_assignments\\assignment_2\\model\\fourwheelerinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AE108-7AE6-4D9A-B56F-D7FE8FC84ABB}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\model\\fourwheelerinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assgnment_1\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Assgnment_1\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assgnment_1\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Assgnment_1\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAgAAAAAMDMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:44:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assgnment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assgnment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assgnment_1\\Program.cs",
+              "RelativeToolTip": "Assgnment_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:43:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Program.cs",
+              "RelativeToolTip": "Assignment_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:40:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleInsurancePolicies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\VehicleInsurancePolicies.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Model\\VehicleInsurancePolicies.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\VehicleInsurancePolicies.cs",
+              "RelativeToolTip": "Assignment_2\\Model\\VehicleInsurancePolicies.cs",
+              "ViewState": "AgIAAAQAAAAAlZmZmZkPwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:39:56.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoWheelerInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\TwoWheelerInsurance.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Model\\TwoWheelerInsurance.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\TwoWheelerInsurance.cs",
+              "RelativeToolTip": "Assignment_2\\Model\\TwoWheelerInsurance.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABcPRMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:39:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FourWheelerInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\FourWheelerInsurance.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Model\\FourWheelerInsurance.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Day5_Assignments\\Assignment_2\\Model\\FourWheelerInsurance.cs",
+              "RelativeToolTip": "Assignment_2\\Model\\FourWheelerInsurance.cs",
+              "ViewState": "AgIAAAYAAACAMjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:39:53.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
