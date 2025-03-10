@@ -12,7 +12,7 @@ namespace PoilicyHackathon.Repository
         public void AddPolicy(Poilcy policy);
         public void ViewAllPolicies();
         public void SearchPolicyById(int id);
-        public void UpdatePolicy(Poilcy policy);
+        public void UpdatePolicy(int id);
         public void DeletePolicy(int id);
         public void ActivePolicies();
 

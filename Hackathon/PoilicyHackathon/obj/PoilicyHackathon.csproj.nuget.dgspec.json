@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj",
         "projectName": "PoilicyHackathon",
-        "projectPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\PoilicyHackathon.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon\\PoilicyHackathon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

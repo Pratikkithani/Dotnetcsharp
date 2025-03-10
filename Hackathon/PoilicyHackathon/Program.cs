@@ -57,21 +57,10 @@ namespace PoilicyHackathon
                     case 4:
                         Console.WriteLine("Enter the id::");
                         int id = Convert.ToInt32(Console.ReadLine());
-                        Console.WriteLine("Enter the Name::");
-                        name = Console.ReadLine();
-                        start = DateTime.Now;
-                        Console.WriteLine($"Start Date is {start}");
-                        Console.WriteLine("Enter End Date (yyyy-MM-dd): ");
-                        end = DateTime.Parse(Console.ReadLine());
-                        Console.WriteLine("Policy type");
-                        Console.WriteLine("1. Life\n2. Health\n3. Vehicle\n4. Property");
-                        Console.WriteLine("Enter which you want::");
-                        type = (PolicyType)Enum.Parse(typeof(PolicyType), Console.ReadLine());
-                        ipr.UpdatePolicy(new Poilcy(id, name, type, start, end));
+                        ipr.UpdatePolicy(id);
                         Console.WriteLine();
                         Console.WriteLine("Updated Successfully");
                         Console.WriteLine();
-
                         break;
 
                     case 5:

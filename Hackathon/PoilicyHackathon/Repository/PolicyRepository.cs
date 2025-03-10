@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using PoilicyHackathon.Constants;
 using PoilicyHackathon.Exception;
 using PoilicyHackathon.Model;
@@ -42,11 +44,47 @@ namespace PoilicyHackathon.Repository
             }
         }
 
-        public void UpdatePolicy(Poilcy policy)
+        public void UpdatePolicy(int id)
         {
-            if (_policies.ContainsKey(policy.PolicyID))
+            while (true)
             {
-                _policies[policy.PolicyID] = policy;
+                Console.WriteLine("---------------------");
+                Console.WriteLine("1. Update Name\n2. Update End Date\n3. Update Policy Type\n4. Exit");
+                Console.WriteLine("---------------------");
+                Console.WriteLine("Enter the choice::");
+                int choice1 = Convert.ToInt32(Console.ReadLine());
+                switch (choice1)
+                {
+                    case 1:
+                        Console.WriteLine("Enter the Name::");
+                        string name = Console.ReadLine();
+                        _policies[id].PolicyHolderName = name;
+                        break;
+
+                    case 2:
+                        DateTime start = DateTime.Now;
+                        Console.WriteLine($"Start Date is {start}");
+                        Console.WriteLine("Enter End Date (yyyy-MM-dd): ");
+                        DateTime end = DateTime.Parse(Console.ReadLine());
+                        _policies[id].StartDate = start;
+                        _policies[id].EndDate = end;
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Policy type");
+                        Console.WriteLine("1. Life\n2. Health\n3. Vehicle\n4. Property");
+                        Console.WriteLine("Enter which you want::");
+                        PolicyType type = (PolicyType)Enum.Parse(typeof(PolicyType), Console.ReadLine());
+                        _policies[id].PolicyType = type;
+                        break;
+
+                    case 4:
+                        return;
+
+                    default:
+                        Console.WriteLine("enter the valid choice");
+                        break;
+                }
             }
         }
 

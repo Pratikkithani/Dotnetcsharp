@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoilicyHackathon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe3b7d54c3c018370d5c79b46a64608f7e04291")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9eab0b40d134d09429da82589680478fed82442")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoilicyHackathon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoilicyHackathon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
