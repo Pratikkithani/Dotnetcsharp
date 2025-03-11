@@ -11,10 +11,11 @@ namespace Hackathon_DB.Repository
     {
         public int AddPolicy(Policy policy);
         public List<Policy> ViewAllPolicies();
-        //public int SearchPolicyById(int id);
+        public void SearchPolicyById(int id);
         public int UpdatePolicy(int id);
         public int DeletePolicy(int id);
-        //public void ActivePolicies();
+        public void ActivePolicies();
+        public int DeleteAllData();
 
     }
 }

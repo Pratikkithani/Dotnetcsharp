@@ -14,7 +14,7 @@ namespace Hackathon_DB
             while (true)
             {
                 Console.WriteLine("---------------------");
-                Console.WriteLine("1. Add\n2. View All\n3. Update\n4. Delete\n5. Exit");
+                Console.WriteLine("1. Add\n2. View All\n3. Update By ID\n4. Delete By ID\n5. Search By ID\n6. View Active Policies\n7. Delete All Data\n8. Exit");
                 Console.WriteLine("---------------------");
                 Console.WriteLine("Enter the choice :: ");
                 choice = Convert.ToInt32(Console.ReadLine());
@@ -54,14 +54,6 @@ namespace Hackathon_DB
                         Console.WriteLine();
                         break;
 
-                    //case 3:
-                    //    Console.WriteLine("Enter the valid id::");
-                    //    int search = Convert.ToInt32(Console.ReadLine());
-                    //    Console.WriteLine();
-                    //    ipr.SearchPolicyById(search);
-                    //    Console.WriteLine();
-                    //    break;
-
                     case 3:
                         Console.WriteLine("Enter the id::");
                         int id = Convert.ToInt32(Console.ReadLine());
@@ -76,13 +68,25 @@ namespace Hackathon_DB
                         ipr.DeletePolicy(search);
                         break;
 
-                    //case 6:
-                    //    Console.WriteLine();
-                    //    ipr.ActivePolicies();
-                    //    Console.WriteLine();
-                    //    break;
-
                     case 5:
+                        Console.WriteLine("Enter the valid id::");
+                        int search1 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine();
+                        ipr.SearchPolicyById(search1);
+                        Console.WriteLine();
+                        break;
+
+                    case 6:
+                        Console.WriteLine();
+                        ipr.ActivePolicies();
+                        Console.WriteLine();
+                        break;
+
+                    case 7:
+                        ipr.DeleteAllData();
+                        break;
+
+                    case 8:
                         return;
 
                     default:
