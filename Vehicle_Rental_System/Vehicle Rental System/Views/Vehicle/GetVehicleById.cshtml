@@ -1,0 +1,61 @@
+﻿@model Vehicle_Rental_System.Models.Vehicle
+
+@{
+    ViewData["Title"] = "GetVehicleById";
+}
+
+@* <h1>GetVehicleById</h1> *@
+@* @if (TempData["Msg"] != null) *@
+@* { *@
+@*     <div class="alert alert-danger alert-dismissible"> *@
+@*         <h2 class="pb-3">@TempData["Msg"]</h2> *@
+@*         <form asp-controller="Vehicle" asp-action="GetAllVehicles" method="get"> *@
+@*             <button type="submit" class="btn btn-primary">Go to Page</button> *@
+@*         </form> *@
+@*     </div> *@
+@* } *@
+@* else{ *@
+
+<div>
+    <h4>Vehicle</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Brand)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Brand)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RentalPricePerDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RentalPricePerDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IsAvailable)
+        </dt>
+        <dd class="col-sm-10">
+            <span class="@(Model.IsAvailable ? "text-success" : "text-danger")">
+                @(Model.IsAvailable ? "Available" : "Not Available")
+            </span>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="UpdateVehicle" asp-route-id="@Model?.VehicleId">Edit</a> |
+    <a asp-action="GetAllVehicles">Back to List</a>
+</div>
+@* } *@

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Vehicle_Rental_System.Models.Booking>
+
+@{
+    ViewData["Title"] = "GetAllBookings";
+}
+
+<h1>Bookings</h1>
+
+@if (!Model.Any())
+{
+    <h1>No bookings yet!!</h1>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vehicle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vehicle.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Email)
+            </td>
+            <td>
+                <a asp-action="GetBookingById" asp-route-id="@item.BookingId">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}
+
+<button class="btn btn-primary">
+    <a asp-controller="Vehicle" asp-action="GetAllVehicles" style="text-decoration: none; color: white;">All Vehicles</a>
+</button>

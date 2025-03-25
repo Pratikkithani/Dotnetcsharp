@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Vehicle_Rental_System.Models.Booking>
+
+@{
+    ViewData["Title"] = "GetBookingsByUserId";
+}
+
+<h1>Your Bookings</h1>
+
+<button class="btn btn-primary">
+    <a asp-controller="Booking" asp-action="AddBooking" style="text-decoration: none; color: white;">Add Your Booking</a>
+</button>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vehicle)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vehicle.Brand)
+            </td>
+            <td>
+                <a asp-action="UpdateBooking" asp-route-id="@item.BookingId">Edit</a> |
+                    <a asp-action="GetBookingsByUserId" asp-route-id="@item.BookingId">GetBookingById</a> |
+                <a asp-action="DeleteBooking" asp-route-id="@item.BookingId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

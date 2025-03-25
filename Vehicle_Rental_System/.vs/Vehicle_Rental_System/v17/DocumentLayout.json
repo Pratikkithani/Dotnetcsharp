@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\configurations\\userseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\configurations\\userseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\context\\vehiclerentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\context\\vehiclerentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\configurations\\userroleseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\configurations\\userroleseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\configurations\\roleseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\configurations\\roleseedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\vehicle\\getvehiclebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\vehicle\\getvehiclebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\aspectorientedprogramming\\exceptionhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\aspectorientedprogramming\\exceptionhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\user\\onedrive\\desktop\\dotnetcsharp\\dotnetcsharp\\vehicle_rental_system\\vehicle rental system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E387375D-A0A1-4FFE-86C1-5A1D3CD86E16}|Vehicle Rental System\\Vehicle Rental System.csproj|solutionrelative:vehicle rental system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleRentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Context\\VehicleRentalDbContext.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Context\\VehicleRentalDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Context\\VehicleRentalDbContext.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Context\\VehicleRentalDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABcPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:01:28.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Services\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Services\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Services\\IVehicleService.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Services\\IVehicleService.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:00:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAA0AAADAzczMzAwjwC4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:45:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:41:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRoleSeedConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\UserRoleSeedConfiguration.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Configurations\\UserRoleSeedConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\UserRoleSeedConfiguration.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Configurations\\UserRoleSeedConfiguration.cs",
+              "ViewState": "AgIAAAcAAACA/v//////vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:19:09.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSeedConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\UserSeedConfiguration.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Configurations\\UserSeedConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\UserSeedConfiguration.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Configurations\\UserSeedConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:19:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetVehicleById.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Vehicle\\GetVehicleById.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Vehicle\\GetVehicleById.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Vehicle\\GetVehicleById.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Vehicle\\GetVehicleById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:59:56.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAwAAACAkJmZmRkVwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:45:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAEAAAACAX2ZmZqYiwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:58:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleSeedConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\RoleSeedConfiguration.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Configurations\\RoleSeedConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Configurations\\RoleSeedConfiguration.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Configurations\\RoleSeedConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAA/P//////vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:19:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\appsettings.json",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\appsettings.json",
+              "RelativeToolTip": "Vehicle Rental System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T11:22:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\AspectOrientedProgramming\\ExceptionHandlerAttribute.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\AspectOrientedProgramming\\ExceptionHandlerAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\AspectOrientedProgramming\\ExceptionHandlerAttribute.cs",
+              "RelativeToolTip": "Vehicle Rental System\\AspectOrientedProgramming\\ExceptionHandlerAttribute.cs",
+              "ViewState": "AgIAAAkAAADQZWZmZiYowBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:58:41.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Vehicle Rental System\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:45:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Account\\RegisterAdmin.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Account\\RegisterAdmin.cshtml",
+              "ViewState": "AgIAACgAAAAAy8zMzMwHwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:12:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Vehicle Rental System\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T07:09:48.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB8AAACA//////8lwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:07:22.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:07:03.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:06:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Vehicle Rental System\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Vehicle_Rental_System\\Vehicle Rental System\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Vehicle Rental System\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB8AAAAAmZmZmZkJwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:06:51.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

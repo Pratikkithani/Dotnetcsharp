@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Vehicle_Rental_System.Models.Vehicle>
+
+@{
+    ViewData["Title"] = "GetAllVehicles";
+}
+
+<h1>Vehicles</h1>
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Msg"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<button class="btn btn-primary">
+    <a asp-action="AddVehicle" style="text-decoration: none; color: white;">Add Vehicle</a>
+</button>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RentalPricePerDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAvailable)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentalPricePerDay)
+            </td>
+            <td>
+                <span class="@(item.IsAvailable ? "text-success" : "text-danger")">
+                    @(item.IsAvailable ? "Available" : "Not Available")
+                </span>
+            </td>
+            <td>
+                    <a asp-action="UpdateVehicle" asp-route-id="@item.VehicleId">Update</a> |
+                    <a asp-action="GetVehicleById" asp-route-id="@item.VehicleId">Details</a> |
+                    <a asp-action="DeleteVehicle" asp-route-id="@item.VehicleId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<button class="btn btn-primary">
+    <a asp-controller="Booking" asp-action="GetAllBookings" style="text-decoration: none; color: white;">All Bookings</a>
+</button>

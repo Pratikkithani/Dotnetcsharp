@@ -1,0 +1,92 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<User> _signInManger
+@inject UserManager<User> _userManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Vehicle Rental System</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand fw-bold" asp-area="" asp-controller="Home" asp-action="Index">
+                    🚗 Vehicle Rental
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        @if (_signInManger.IsSignedIn(User))
+                        {
+                            var user = await _userManager.GetUserAsync(User);
+                            var roles = await _userManager.GetRolesAsync(user);
+
+                            if (roles.Contains("Administrator"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Vehicle" asp-action="GetAllVehicles">Manage Vehicles</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Vehicle" asp-action="AddVehicle">Add Vehicle</a>
+                                </li>
+                            }
+                            else if (roles.Contains("User"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Booking" asp-action="GetBookingsByUserId">Your Bookings</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Booking" asp-action="AddBooking">New Booking</a>
+                                </li>
+                            }
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        @if (_signInManger.IsSignedIn(User))
+                        {
+                            <li class="nav-item">
+                                <a class="btn btn-outline-light" asp-controller="Account" asp-action="LogOut">Logout</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="btn btn-outline-light me-2" asp-controller="Account" asp-action="Register">Register</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-light" asp-controller="Account" asp-action="Login">Login</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container flex-grow-1">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+        <p class="mb-0">&copy; 2025 Vehicle Rental System | All Rights Reserved</p>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

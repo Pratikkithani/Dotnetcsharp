@@ -62,8 +62,7 @@
               "RelativeToolTip": "Hackathon_DB\\Constant\\PolicyType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:01:55.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T09:01:55.113Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Hackathon_DB\\Exception\\PolicyNotFound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:01:30.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T09:01:30.841Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "Hackathon_DB\\Repository\\IPolicyRepository.cs",
               "ViewState": "AgIAAAwAAABgZmZmZmYswBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:00:50.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T09:00:50.564Z"
             },
             {
               "$type": "Document",
@@ -99,7 +96,7 @@
               "RelativeDocumentMoniker": "Hackathon_DB\\Repository\\PolicyRepository.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Dotnetcsharp\\Dotnetcsharp\\Hackathon_ADO.NET\\Policy_Management\\Hackathon_DB\\Repository\\PolicyRepository.cs",
               "RelativeToolTip": "Hackathon_DB\\Repository\\PolicyRepository.cs",
-              "ViewState": "AgIAAOMAAAAArszMzMwcwPAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAxMzMzMwUwGEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T09:00:13.216Z",
               "EditorCaption": ""
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Hackathon_DB\\Program.cs",
               "ViewState": "AgIAAE0AAAAAlJmZmZkewFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:58:08.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T08:58:08.654Z"
             }
           ]
         }

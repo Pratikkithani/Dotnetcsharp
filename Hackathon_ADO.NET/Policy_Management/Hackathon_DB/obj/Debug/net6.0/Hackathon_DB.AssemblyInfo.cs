@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hackathon_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79702bd930c888dfd458e8cbad0394b3b38e2f73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+348de48a41374cfb03121f2373c4978fffae4b73")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hackathon_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hackathon_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

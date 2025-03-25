@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Vehicle_Rental_System.Models.Vehicle>
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<User> _signInManger;
+
+@{
+    ViewData["Title"] = "Available Vehicles";
+}
+
+<!-- Welcome Banner -->
+<div class="container mt-4 text-center">
+    <h1 class="display-4 fw-bold text-primary">
+        @(_signInManger.IsSignedIn(User) ? $"Welcome, {User.Identity.Name.ToUpper()}! 🚗" : "Welcome To Vehicle Rental System 🚘")
+    </h1>
+    <p class="lead text-muted">Find the best vehicles for rent at affordable prices.</p>
+</div>
+
+<hr />
+
+<!-- Vehicle Listing -->
+<div class="container mt-4">
+    <h2 class="text-center text-secondary mb-4">Available Vehicles</h2>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">@item.Brand @item.Model</h5>
+                        <p class="card-text"><strong>Type:</strong> @item.Type</p>
+                        <p class="card-text"><strong>Rental Price:</strong> ₹@item.RentalPricePerDay/day</p>
+                        <p class="card-text">
+                            <strong>Status:</strong>
+                            <span class="badge @(item.IsAvailable ? "bg-success" : "bg-danger")">
+                                @(item.IsAvailable ? "Available" : "Not Available")
+                            </span>
+                        </p>
+                        <a asp-controller="Vehicle" asp-action="GetVehicleById" asp-route-id="@item.VehicleId" class="btn btn-primary w-100">
+                            View Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
