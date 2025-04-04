@@ -11,10 +11,10 @@ namespace Vehicle_Rental_System.Controllers
     {
         readonly UserManager<User> _userManager;
         readonly SignInManager<User> _signInManger;
-        public AccountController(UserManager<User> manager, SignInManager<User> signInManager)
+        public AccountController(UserManager<User> userManager, SignInManager<User> signInManger)
         {
-            _userManager = manager;
-            _signInManger = signInManager;
+            _userManager = userManager;
+            _signInManger = signInManger;
 
         }
         [HttpGet]
